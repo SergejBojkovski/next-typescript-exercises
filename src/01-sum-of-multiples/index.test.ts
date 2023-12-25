@@ -15,3 +15,4 @@ describe('Exercise 01: Sum of multiples', () => {
     },
   )
 })
+
